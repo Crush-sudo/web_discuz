@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3e16f0d-832e-4aaa-b14c-551644656af8" name="Default Changelist" comment="" />
+    <list default="true" id="c3e16f0d-832e-4aaa-b14c-551644656af8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +17,11 @@
           <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.26" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -27,7 +30,7 @@
           <entry key="ini" value="5" />
           <entry key="log" value="5" />
           <entry key="png" value="9" />
-          <entry key="py" value="101" />
+          <entry key="py" value="112" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
@@ -38,88 +41,34 @@
           <entry key="Ini" value="5" />
           <entry key="Log" value="5" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="101" />
+          <entry key="Python" value="112" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="80" />
           <entry key="ini" value="26" />
-          <entry key="py" value="8281" />
+          <entry key="py" value="9319" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Ini" value="26" />
           <entry key="PLAIN_TEXT" value="80" />
-          <entry key="Python" value="8281" />
+          <entry key="Python" value="9319" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testsuites/test_del_mes_and_newmodule.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testsuites/All_test.py">
+        <entry file="file://$PROJECT_DIR$/framework/util.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+            <state relative-caret-position="360">
+              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
               <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/framework/browser_engine.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="25" column="40" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/framework/logger.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="15" column="63" lean-forward="true" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testsuites/test_login_post_reoly.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testsuites/BaseTestCase.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="1" column="50" lean-forward="true" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -163,18 +112,21 @@
         <option value="$PROJECT_DIR$/pageobjects/homepage.py" />
         <option value="$PROJECT_DIR$/testsuites/test_login_post_reoly.py" />
         <option value="$PROJECT_DIR$/testsuites/test_del_mes_and_newmodule.py" />
-        <option value="$PROJECT_DIR$/testsuites/test_search_mes.py" />
         <option value="$PROJECT_DIR$/testsuites/test_release_vote.py" />
         <option value="$PROJECT_DIR$/pageobjects/Base.py" />
-        <option value="$PROJECT_DIR$/testsuites/BaseTestCase.py" />
         <option value="$PROJECT_DIR$/All_test.py" />
         <option value="$PROJECT_DIR$/testsuites/All_test.py" />
+        <option value="$PROJECT_DIR$/framework/util.py" />
+        <option value="$PROJECT_DIR$/testsuites/BaseTestCase.py" />
+        <option value="$PROJECT_DIR$/framework/util_lx.py" />
+        <option value="$PROJECT_DIR$/testsuites/test_search_mes_by_ddt.py" />
+        <option value="$PROJECT_DIR$/testsuites/test_search_mes.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="y" value="30" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="940" />
+    <option name="y" value="163" />
     <option name="width" value="946" />
     <option name="height" value="967" />
   </component>
@@ -184,7 +136,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,12 +146,18 @@
             <path>
               <item name="Web_haotest_Discuz" type="b2602c69:ProjectViewProjectNode" />
               <item name="Discuz" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web_haotest_Discuz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Discuz" type="462c0819:PsiDirectoryNode" />
               <item name="testsuites" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,11 +165,11 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\PyCharm\Discuz\testsuites" />
       <recent name="E:\PyCharm\Discuz" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\PyCharm\Discuz\testsuites" />
       <recent name="E:\PyCharm\Discuz" />
     </key>
@@ -229,28 +186,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.All_test (2)">
-    <configuration name="All_test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Web_haotest_Discuz" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\PyCharm\Discuz\testsuites\All_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests for test_search_mes_by_ddt.test">
     <configuration name="All_test (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Web_haotest_Discuz" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -272,7 +208,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="All_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="util" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Web_haotest_Discuz" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -280,11 +216,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuites" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/framework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\PyCharm\Discuz\testsuites\All_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/framework/util.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,7 +229,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for testsuites.test_login_post_reoly.Search_one.test_one_search" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="util_lx" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Web_haotest_Discuz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/framework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/framework/util_lx.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_search_mes_by_ddt.test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Web_haotest_Discuz" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,11 +260,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;testsuites.test_login_post_reoly.Search_one.test_one_search&quot;" />
+      <option name="_new_target" value="&quot;test_search_mes_by_ddt.test&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in test_login_post_reoly.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_search_mes_by_ddt.test_search_mes.test_search_mes" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Web_haotest_Discuz" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -317,24 +274,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/testsuites/test_login_post_reoly.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_search_mes_by_ddt.test_search_mes.test_search_mes&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests for testsuites.test_login_post_reoly.Search_one.test_one_search" />
-      <item itemvalue="Python.All_test" />
-      <item itemvalue="Python tests.Unittests in test_login_post_reoly.py" />
-      <item itemvalue="Python.All_test (1)" />
       <item itemvalue="Python.All_test (2)" />
+      <item itemvalue="Python.util" />
+      <item itemvalue="Python tests.Unittests for test_search_mes_by_ddt.test_search_mes.test_search_mes" />
+      <item itemvalue="Python.util_lx" />
+      <item itemvalue="Python tests.Unittests for test_search_mes_by_ddt.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for test_search_mes_by_ddt.test" />
+        <item itemvalue="Python tests.Unittests for test_search_mes_by_ddt.test_search_mes.test_search_mes" />
+        <item itemvalue="Python.util_lx" />
+        <item itemvalue="Python.util" />
         <item itemvalue="Python.All_test (2)" />
-        <item itemvalue="Python.All_test (1)" />
-        <item itemvalue="Python tests.Unittests in test_login_post_reoly.py" />
-        <item itemvalue="Python.All_test" />
-        <item itemvalue="Python tests.Unittests for testsuites.test_login_post_reoly.Search_one.test_one_search" />
       </list>
     </recent_temporary>
   </component>
@@ -352,27 +309,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_py - 2019.02.28 at 19h 10m 05s.xml">
-      <configuration name="Unittests in test.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_one_search_Search_one_test_one_search - 2019.02.28 at 19h 10m 54s.xml">
-      <configuration name="Unittests for test_one_search.Search_one.test_one_search" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_two_search_Search_two_test_two_search - 2019.02.28 at 19h 12m 38s.xml">
-      <configuration name="Unittests for test_two_search.Search_two.test_two_search" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_three_search_Search_three_test_two_search - 2019.02.28 at 19h 13m 20s.xml">
-      <configuration name="Unittests for test_three_search.Search_three.test_two_search" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_four_search_Search_four_test_one_search - 2019.02.28 at 19h 14m 44s.xml">
-      <configuration name="Unittests for test_four_search.Search_four.test_one_search" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_four_search_Search_four_test_one_search - 2019.02.28 at 19h 17m 30s.xml">
-      <configuration name="Unittests for test_four_search.Search_four.test_one_search" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_three_search_Search_three_test_two_search - 2019.02.28 at 19h 18m 27s.xml">
-      <configuration name="Unittests for test_three_search.Search_three.test_two_search" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_test_two_search_Search_two_test_two_search - 2019.02.28 at 19h 20m 47s.xml">
       <configuration name="Unittests for test_two_search.Search_two.test_two_search" configurationId="tests" />
     </history-entry>
@@ -382,12 +318,34 @@
     <history-entry file="Unittests_in_test_login_post_reoly_py - 2019.03.01 at 12h 05m 33s.xml">
       <configuration name="Unittests in test_login_post_reoly.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_for_test_search_mes_by_ddt_test_search_mes_test_search_mes - 2019.03.01 at 14h 53m 10s.xml">
+      <configuration name="Unittests for test_search_mes_by_ddt.test_search_mes.test_search_mes" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_search_mes_by_ddt_test_search_mes_test_search_mes - 2019.03.01 at 14h 54m 36s.xml">
+      <configuration name="Unittests for test_search_mes_by_ddt.test_search_mes.test_search_mes" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_search_mes_by_ddt_test_search_mes_test_search_mes - 2019.03.01 at 14h 54m 56s.xml">
+      <configuration name="Unittests for test_search_mes_by_ddt.test_search_mes.test_search_mes" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_search_mes_by_ddt_test_search_mes_test_search_mes - 2019.03.01 at 14h 55m 29s.xml">
+      <configuration name="Unittests for test_search_mes_by_ddt.test_search_mes.test_search_mes" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_search_mes_by_ddt_test_search_mes_test_search_mes - 2019.03.01 at 14h 55m 49s.xml">
+      <configuration name="Unittests for test_search_mes_by_ddt.test_search_mes.test_search_mes" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_search_mes_by_ddt_test_search_mes_test_search_mes - 2019.03.01 at 15h 12m 22s.xml">
+      <configuration name="Unittests for test_search_mes_by_ddt.test_search_mes.test_search_mes" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_search_mes_by_ddt_test - 2019.03.01 at 15h 14m 08s.xml">
+      <configuration name="Unittests for test_search_mes_by_ddt.test" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.087987356" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.14646997" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32962137" />
       <window_info anchor="bottom" id="Python Console" order="1" />
@@ -406,14 +364,14 @@
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15858799" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.14646997" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32962137" />
       <window_info anchor="bottom" id="Python Console" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.32962137" />
-      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.36414254" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.44481605" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -471,20 +429,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testsuites/test_search_mes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsuites/test_release_vote.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pageobjects/homepage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3996">
@@ -506,56 +450,100 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testsuites/test_login_post_reoly.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testsuites/test_del_mes_and_newmodule.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state relative-caret-position="216">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/framework/browser_engine.py">
+    <entry file="file://$PROJECT_DIR$/testsuites/test_login_post_reoly.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="25" column="40" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="40" />
+        <state relative-caret-position="108">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/framework/logger.py">
+    <entry file="file://$PROJECT_DIR$/testsuites/test_search_mes_by_ddt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="15" column="63" lean-forward="true" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+        <state relative-caret-position="124">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/util_lx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testsuites/BaseTestCase.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="1" column="50" lean-forward="true" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+        <state relative-caret-position="396">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="28" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/test_search_mes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="8" selection-start-line="8" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/test_release_vote.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/browser_engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="23" column="52" lean-forward="true" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testsuites/All_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        <state relative-caret-position="108">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
