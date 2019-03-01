@@ -1,7 +1,5 @@
 import unittest
 from framework.browser_engine import BrowserEngine
-from ddt import ddt,data,unpack
-@ddt
 class BaseTestCase(unittest.TestCase):
     def setUp(self):
         print("开始测试")

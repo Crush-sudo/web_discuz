@@ -8,7 +8,6 @@ from testsuites.test_release_vote import test_release_vote
 #构造存储路径
 report_path=os.path.dirname(os.path.abspath("."))+"/report/"
 if not os.path.exists(report_path):os.mkdir(report_path)
-
 #构造测试套件
 suite=unittest.TestSuite()
 suite.addTest(unittest.makeSuite(test_login_post_reoly))
