@@ -2,7 +2,7 @@ import HTMLTestRunner
 import unittest
 import os
 import sys
-sys.path.append('E:\培训\Jenkins\workspace\discuz_first')
+sys.path.append('E:\PyCharm\Discuz')
 from testsuites.test_login_post_reoly import test_login_post_reoly
 from testsuites.test_del_mes_and_newmodule import test_del_mes_and_newmodule
 from testsuites.test_search_mes import test_search_mes
