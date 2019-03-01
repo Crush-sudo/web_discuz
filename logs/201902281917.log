@@ -1,0 +1,38 @@
+2019-02-28 19:17:42,317 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-28 19:17:42,317 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/forum.php
+2019-02-28 19:17:44,746 - BrowserEngine - INFO - Starting chrome browser.
+2019-02-28 19:17:55,127 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-02-28 19:17:56,263 - BrowserEngine - INFO - Maximize the current window.
+2019-02-28 19:17:56,272 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-02-28 19:17:56,329 - BasePage - INFO - <pageobjects.homepage.HomePage object at 0x0000023D12586278>找到页面元素:('css selector', '#ls_username')
+2019-02-28 19:17:56,485 - BasePage - INFO - 输入：sxd
+2019-02-28 19:17:56,514 - BasePage - INFO - <pageobjects.homepage.HomePage object at 0x0000023D12586278>找到页面元素:('css selector', '#ls_password')
+2019-02-28 19:17:56,601 - BasePage - INFO - 输入：802352.sxd
+2019-02-28 19:17:56,632 - BasePage - INFO - <pageobjects.homepage.HomePage object at 0x0000023D12586278>找到页面元素:('css selector', '.pn em')
+2019-02-28 19:17:56,702 - BasePage - INFO - 点击登录
+2019-02-28 19:17:56,703 - BasePage - INFO - sxd登录
+2019-02-28 19:17:57,199 - BasePage - INFO - <pageobjects.homepage.HomePage object at 0x0000023D12586278>找到页面元素:('css selector', '.vwmy>a')
+2019-02-28 19:17:57,248 - BasePage - INFO - <pageobjects.homepage.HomePage object at 0x0000023D12586278>找到页面元素:('css selector', '.scbar_txt_td>input')
+2019-02-28 19:17:57,292 - BasePage - INFO - 清除<selenium.webdriver.remote.webelement.WebElement (session="d66a80888e9002b739eaae29643b0b53", element="0.09388858705759429-2")>
+2019-02-28 19:17:57,306 - BasePage - INFO - <pageobjects.homepage.HomePage object at 0x0000023D12586278>找到页面元素:('css selector', '.scbar_txt_td>input')
+2019-02-28 19:17:57,366 - BasePage - INFO - 输入：haotest
+2019-02-28 19:17:57,390 - BasePage - INFO - <pageobjects.homepage.HomePage object at 0x0000023D12586278>找到页面元素:('css selector', '.scbar_btn_td>button')
+2019-02-28 19:17:57,498 - BasePage - INFO - 点击
+2019-02-28 19:17:57,498 - BasePage - INFO - 搜索帖子haotest
+2019-02-28 19:17:58,884 - BasePage - INFO - 屏幕截图，保存路径是E:\PyCharm\Discuz/screenshots/201902281917.png
+2019-02-28 19:17:58,884 - BasePage - INFO - 切换窗口成功
+2019-02-28 19:17:58,944 - BasePage - INFO - <pageobjects.homepage.HomePage object at 0x0000023D12586278>找到页面元素:('css selector', '.pbw:first-of-type a')
+2019-02-28 19:17:59,060 - BasePage - INFO - 点击haotest
+2019-02-28 19:18:00,466 - BasePage - INFO - 屏幕截图，保存路径是E:\PyCharm\Discuz/screenshots/201902281917.png
+2019-02-28 19:18:00,466 - BasePage - INFO - 切换窗口成功
+2019-02-28 19:18:00,497 - BasePage - INFO - <pageobjects.homepage.HomePage object at 0x0000023D12586278>找到页面元素:('css selector', '#thread_subject')
+2019-02-28 19:18:00,519 - BasePage - INFO - 帖子标题：haotest
+2019-02-28 19:18:02,621 - BasePage - INFO - <pageobjects.homepage.HomePage object at 0x0000023D12586278>找到页面元素:('link text', '退出')
+2019-02-28 19:18:14,395 - BasePage - INFO - 屏幕截图，保存路径是E:\PyCharm\Discuz/screenshots/201902281918.png
+2019-02-28 19:18:14,396 - BasePage - ERROR - 点击失败，Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 19:18:14,396 - BasePage - INFO - 退出登录
+2019-02-28 19:18:24,769 - BasePage - INFO - 屏幕截图，保存路径是E:\PyCharm\Discuz/screenshots/201902281918.png
+2019-02-28 19:18:24,769 - BrowserEngine - INFO - Now,Close and quit the browser.

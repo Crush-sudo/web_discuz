@@ -1,0 +1,22 @@
+2019-02-28 19:09:33,507 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-28 19:09:33,507 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/forum.php
+2019-02-28 19:09:35,892 - BrowserEngine - INFO - Starting chrome browser.
+2019-02-28 19:09:47,335 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-02-28 19:09:48,506 - BrowserEngine - INFO - Maximize the current window.
+2019-02-28 19:09:48,510 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-02-28 19:09:48,551 - BasePage - INFO - <pageobjects.homepage.HomePage object at 0x0000014AF73C8438>找到页面元素:('css selector', '#ls_username')
+2019-02-28 19:09:48,783 - BasePage - INFO - 输入：sxd
+2019-02-28 19:09:48,819 - BasePage - INFO - <pageobjects.homepage.HomePage object at 0x0000014AF73C8438>找到页面元素:('css selector', '#ls_password')
+2019-02-28 19:09:48,909 - BasePage - INFO - 输入：802352.sxd
+2019-02-28 19:09:48,936 - BasePage - INFO - <pageobjects.homepage.HomePage object at 0x0000014AF73C8438>找到页面元素:('css selector', '.pn em')
+2019-02-28 19:09:49,002 - BasePage - INFO - 点击登录
+2019-02-28 19:09:49,002 - BasePage - INFO - sxd登录
+2019-02-28 19:09:49,662 - BasePage - INFO - <pageobjects.homepage.HomePage object at 0x0000014AF73C8438>找到页面元素:('css selector', '.vwmy>a')
+2019-02-28 19:09:54,823 - BasePage - INFO - <pageobjects.homepage.HomePage object at 0x0000014AF73C8438>找到页面元素:('link text', '退出')
+2019-02-28 19:09:57,975 - BasePage - INFO - 屏幕截图，保存路径是E:\PyCharm\Discuz/screenshots/201902281909.png
+2019-02-28 19:09:57,975 - BasePage - ERROR - 点击失败，Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 19:09:57,975 - BasePage - INFO - 退出登录
+2019-02-28 19:10:02,983 - BrowserEngine - INFO - Now,Close and quit the browser.

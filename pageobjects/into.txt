@@ -1,0 +1,6 @@
+pageobject设计模式具体应用：
+1.封装一个所有页面的父类，存放的是与业务无关的，所有页面的公共方法（BasePage）
+    访问某个请求的方法
+    查找元素的方法
+    方法：back  dorward  open_url quit_browser close find_element  sendkeys  clear  click
+2.某一个具体页面来说，存放的是该页面的元素以及该页面所特有业务方法（识别属性）（所有产品页面）（继承BasePage）
