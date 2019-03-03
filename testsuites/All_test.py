@@ -2,7 +2,7 @@ import HTMLTestRunner
 import unittest
 import os
 import sys
-sys.path.append('E:\PyCharm\Discuz')
+sys.path.append(os.path.dirname(os.path.abspath(".")))
 from testsuites.test_login_post_reoly import test_login_post_reoly
 from testsuites.test_del_mes_and_newmodule import test_del_mes_and_newmodule
 from testsuites.test_search_mes import test_search_mes
