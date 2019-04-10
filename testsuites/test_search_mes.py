@@ -1,7 +1,7 @@
 import unittest
 from testsuites.BaseTestCase import BaseTestCase
-from pageobjects.homepage import HomePage
-import time
+from pageobjects.page_home import Page_home
+from pageobjects.page_login import Page_login
 username="sxd"
 userpsd="802352.sxd"
 se_mes_title="haotest"
@@ -17,16 +17,20 @@ class test_search_mes(BaseTestCase):
             验证帖子标题和期望的一致
             用户退出
         '''
-        home_page=HomePage(self.driver)
-        name=home_page.login(username,userpsd)
-        if username in name:
+        home_page = Page_home(self.driver)
+        login_page = Page_login(self.driver)
+        flag = login_page.login(username, userpsd)
+        self.assertEqual(True, flag, msg="%s登录失败" % username)
+        if flag == True:
             home_page.select_mes(se_mes_title)
-            home_page.switch_to_windownum(1)
             home_page.click_first_mes()
-            home_page.switch_to_windownum(2)
-            mes_title=home_page.get_mes_title()
-            self.assertEqual(mes_title,se_mes_title,msg="查找%s贴成功"%mes_title)
-            home_page.exit()
-            self.assertEqual(True, home_page.assert_page(), msg="执行成功")
+            # mes_title=home_page.get_mes_title()
+            # self.assertEqual(mes_title,se_mes_title,msg="查找%s贴失败"%mes_title)
+            search_flag=home_page.is_search_mes(se_mes_title)
+            self.assertEqual(True,search_flag,msg="搜索结果和预期不一致")
+            login_page.quit_login()
+            self.assertEqual(True, login_page.assert_page(), msg="执行失败")
+        else:
+            self.driver.close()
 if __name__ =="__main__":
     unittest.main(verbosity=2)

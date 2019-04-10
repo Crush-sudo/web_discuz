@@ -64,10 +64,10 @@ class BasePage(object):
         try:
             el = self.find_element(*loc)
             el.click()
-            self.logger.info("点击%s"%el.text)
+            self.logger.info("点击%s"%el)
         except Exception as e:
             self.get_windows_img()
-            self.logger.error("点击失败，%s"%e)
+            self.logger.error("点击失败")
     #查找元素
     def find_element(self,*loc):
         try:
@@ -183,7 +183,7 @@ class BasePage(object):
     def get_element_text(self,*loc):
         return self.find_element(*loc).text
     #返回元素的属性值
-    def get_attribute(self,*loc,attrname):
+    def get_attribute(self,attrname,*loc):
         return self.find_element(*loc).get_attribute(attrname)
     #获取当前执行文件的系统路径
     def getcwd(self):
@@ -200,7 +200,7 @@ class BasePage(object):
             return False
     #获取屏幕截图
     def get_windows_img(self):
-        file_path=os.path.dirname(os.path.abspath("."))+"/screenshots/"
+        file_path=os.path.dirname(os.path.abspath("."))+"/songxuedong_web_Discuz/screenshots/"
         rq=time.strftime("%Y%m%d%H%M",time.localtime(time.time()))
         screen_name=file_path+rq+".png"
         try:
@@ -208,7 +208,7 @@ class BasePage(object):
             self.logger.info("屏幕截图，保存路径是%s"%screen_name)
         except Exception as e:
             self.get_windows_img()
-            logger.error("%s截屏失败%e"%(self,e))
+            logger.error("%s截屏失败%s"%(self,e))
     #点击弹窗的确定
     def accept_alert(self):
         try:
@@ -234,8 +234,8 @@ class BasePage(object):
         self.move_to_element(self.find_element(*loc)).perform()
         self.logger.info("移动鼠标")
     #检查元素的属性值是否正确
-    def attr_chenk(self,*loc,attrname,attr_value):
-        attr=self.get_attribute(*loc,attrname)
+    def attr_chenk(self,attrname,attr_value,*loc):
+        attr=self.get_attribute(attrname,*loc)
         if attr==attr_value:
             return True
         else:

@@ -5,13 +5,13 @@ from framework.logger import Logger
 logger=Logger(logger="BrowserEngine").getlog()
 class BrowserEngine(object):
     dir=os.path.dirname(os.path.abspath('.'))
-    chrome_driver_path=dir+'/tools/chromedriver.exe'
-    ie_driver_path=dir+'/tools/IEDriverServer.exe'
-    FireFox_driver_path=dir+'/tools/geckodriver.exe'
+    chrome_driver_path=dir+'/songxuedong_web_Discuz/tools/chromedriver.exe'
+    ie_driver_path=dir+'/songxuedong_web_Discuz/tools/IEDriverServer.exe'
+    FireFox_driver_path=dir+'/songxuedong_web_Discuz/tools/geckodriver.exe'
     #打开浏览器
     def open_browser(self):
         config=ConfigParser()
-        file_path=os.path.dirname(os.path.abspath('.'))+'/config/config.ini'
+        file_path=os.path.dirname(os.path.abspath('.'))+'/songxuedong_web_Discuz/config/config.ini'
         config.read(file_path)
 
         browser=config.get("browserType","browserName")

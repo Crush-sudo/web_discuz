@@ -1,0 +1,220 @@
+2019-03-19 09:31:14,006 - BrowserEngine - INFO - You had select Chrome browser.
+2019-03-19 09:31:14,006 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/forum.php
+2019-03-19 09:31:19,168 - BrowserEngine - INFO - Starting chrome browser.
+2019-03-19 09:31:22,168 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-03-19 09:31:23,298 - BrowserEngine - INFO - Maximize the current window.
+2019-03-19 09:31:23,300 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-03-19 09:31:23,352 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x000002035056B588>找到页面元素:('css selector', '#ls_username')
+2019-03-19 09:31:23,609 - BasePage - INFO - 输入：sxd
+2019-03-19 09:31:23,636 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x000002035056B588>找到页面元素:('css selector', '#ls_password')
+2019-03-19 09:31:23,706 - BasePage - INFO - 输入：802352.sxd
+2019-03-19 09:31:23,730 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x000002035056B588>找到页面元素:('css selector', '.pn em')
+2019-03-19 09:31:23,772 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="e66eb0125b4383b661db6222ceebcfde", element="0.23167088888112963-3")>
+2019-03-19 09:31:23,772 - BasePage - INFO - sxd登录
+2019-03-19 09:31:26,333 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x000002035056B588>找到页面元素:('css selector', '.vwmy>a')
+2019-03-19 09:31:26,359 - BasePage - INFO - sxd登录成功
+2019-03-19 09:31:26,434 - BasePage - INFO - <pageobjects.page_home.Page_home object at 0x000002035056B9E8>找到页面元素:('link text', '默认板块')
+2019-03-19 09:31:27,349 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="e66eb0125b4383b661db6222ceebcfde", element="0.273250430074349-2")>
+2019-03-19 09:31:27,401 - BasePage - INFO - <pageobjects.page_module.Page_module object at 0x000002035056BDA0>找到页面元素:('css selector', '#subject')
+2019-03-19 09:31:27,699 - BasePage - INFO - 输入：haotest
+2019-03-19 09:31:27,749 - BasePage - INFO - <pageobjects.page_module.Page_module object at 0x000002035056BDA0>找到页面元素:('css selector', '#fastpostmessage')
+2019-03-19 09:31:27,889 - BasePage - INFO - 输入：see you,hello word
+2019-03-19 09:31:27,946 - BasePage - INFO - <pageobjects.page_module.Page_module object at 0x000002035056BDA0>找到页面元素:('css selector', '.ptm button')
+2019-03-19 09:31:31,061 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="e66eb0125b4383b661db6222ceebcfde", element="0.8882670197113587-3")>
+2019-03-19 09:31:31,062 - BasePage - INFO - 发帖haotest
+2019-03-19 09:31:31,089 - BasePage - INFO - <pageobjects.page_module.Page_module object at 0x000002035056BDA0>找到页面元素:('css selector', '#fastpostmessage')
+2019-03-19 09:31:31,252 - BasePage - INFO - 输入：see you,hello word
+2019-03-19 09:31:31,318 - BasePage - INFO - <pageobjects.page_module.Page_module object at 0x000002035056BDA0>找到页面元素:('css selector', '.ptm button')
+2019-03-19 09:31:33,152 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="e66eb0125b4383b661db6222ceebcfde", element="0.4858308210139908-2")>
+2019-03-19 09:31:33,152 - BasePage - INFO - 回复see you,hello word
+2019-03-19 09:31:33,256 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x000002035056B588>找到页面元素:('link text', '退出')
+2019-03-19 09:31:33,708 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="e66eb0125b4383b661db6222ceebcfde", element="0.4858308210139908-3")>
+2019-03-19 09:31:33,708 - BasePage - INFO - 退出登录
+2019-03-19 09:31:33,708 - BasePage - INFO - 退出登录
+2019-03-19 09:31:44,242 - BasePage - INFO - 屏幕截图，保存路径是E:\PyCharmsongxuedong_web_Discuz/screenshots/201903190931.png
+2019-03-19 09:31:44,242 - BrowserEngine - INFO - Now,Close and quit the browser.
+2019-03-19 09:31:46,759 - BrowserEngine - INFO - You had select Chrome browser.
+2019-03-19 09:31:46,759 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/forum.php
+2019-03-19 09:31:49,285 - BrowserEngine - INFO - Starting chrome browser.
+2019-03-19 09:31:49,835 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-03-19 09:31:50,959 - BrowserEngine - INFO - Maximize the current window.
+2019-03-19 09:31:50,961 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-03-19 09:31:51,002 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x000002035056BF60>找到页面元素:('css selector', '#ls_username')
+2019-03-19 09:31:51,307 - BasePage - INFO - 输入：admin
+2019-03-19 09:31:51,384 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x000002035056BF60>找到页面元素:('css selector', '#ls_password')
+2019-03-19 09:31:51,487 - BasePage - INFO - 输入：802352
+2019-03-19 09:31:51,530 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x000002035056BF60>找到页面元素:('css selector', '.pn em')
+2019-03-19 09:31:51,609 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="2b61b4c44baefb6beab79d9f5408c31b", element="0.11658378148947057-3")>
+2019-03-19 09:31:51,610 - BasePage - INFO - admin登录
+2019-03-19 09:31:52,467 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x000002035056BF60>找到页面元素:('css selector', '.vwmy>a')
+2019-03-19 09:31:52,520 - BasePage - INFO - admin登录成功
+2019-03-19 09:31:52,600 - BasePage - INFO - <pageobjects.page_home.Page_home object at 0x000002035056BA58>找到页面元素:('link text', '默认板块')
+2019-03-19 09:31:53,214 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="2b61b4c44baefb6beab79d9f5408c31b", element="0.2439133673877678-2")>
+2019-03-19 09:31:53,261 - BasePage - INFO - <pageobjects.page_module.Page_module object at 0x000002035056BA20>找到页面元素:('css selector', '.num .xi2')
+2019-03-19 09:31:54,366 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="2b61b4c44baefb6beab79d9f5408c31b", element="0.6562836092573163-1")>
+2019-03-19 09:31:54,367 - BasePage - INFO - 打开一个帖子
+2019-03-19 09:31:54,395 - BasePage - INFO - <pageobjects.page_mes.Page_mes object at 0x000002035056BCC0>找到页面元素:('css selector', '#modmenu>a')
+2019-03-19 09:31:54,856 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="2b61b4c44baefb6beab79d9f5408c31b", element="0.531545477977273-1")>
+2019-03-19 09:31:54,897 - BasePage - INFO - <pageobjects.page_mes.Page_mes object at 0x000002035056BCC0>找到页面元素:('css selector', '.o button')
+2019-03-19 09:31:56,062 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="2b61b4c44baefb6beab79d9f5408c31b", element="0.531545477977273-2")>
+2019-03-19 09:31:56,062 - BasePage - INFO - 删除帖子成功
+2019-03-19 09:31:56,142 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x000002035056BF60>找到页面元素:('link text', '管理中心')
+2019-03-19 09:31:56,265 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="2b61b4c44baefb6beab79d9f5408c31b", element="0.4496240703946537-1")>
+2019-03-19 09:31:56,265 - BasePage - INFO - 点击后台管理
+2019-03-19 09:31:57,701 - BasePage - INFO - 屏幕截图，保存路径是E:\PyCharmsongxuedong_web_Discuz/screenshots/201903190931.png
+2019-03-19 09:31:57,701 - BasePage - INFO - 切换窗口成功
+2019-03-19 09:31:57,725 - BasePage - INFO - <pageobjects.page_admin.Page_admin object at 0x000002035056BF28>找到页面元素:('xpath', '//input[@name="admin_password"]')
+2019-03-19 09:31:57,790 - BasePage - INFO - 输入：802352
+2019-03-19 09:31:57,825 - BasePage - INFO - <pageobjects.page_admin.Page_admin object at 0x000002035056BF28>找到页面元素:('css selector', '.loginnofloat input')
+2019-03-19 09:32:27,077 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="2b61b4c44baefb6beab79d9f5408c31b", element="0.6706296842769706-2")>
+2019-03-19 09:32:27,078 - BasePage - INFO - admin登录
+2019-03-19 09:32:27,128 - BasePage - INFO - <pageobjects.page_admin.Page_admin object at 0x000002035056BF28>找到页面元素:('css selector', '.uinfo')
+2019-03-19 09:32:27,168 - BasePage - INFO - 管理员登录成功
+2019-03-19 09:32:27,188 - BasePage - INFO - <pageobjects.page_admin.Page_admin object at 0x000002035056BF28>找到页面元素:('css selector', '#header_forum')
+2019-03-19 09:32:27,515 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="2b61b4c44baefb6beab79d9f5408c31b", element="0.21021771440813497-2")>
+2019-03-19 09:32:27,516 - BasePage - INFO - 点击论坛
+2019-03-19 09:32:27,884 - BasePage - INFO - 屏幕截图，保存路径是E:\PyCharmsongxuedong_web_Discuz/screenshots/201903190932.png
+2019-03-19 09:32:27,884 - BasePage - INFO - 切换iframe成功
+2019-03-19 09:32:27,914 - BasePage - INFO - <pageobjects.page_admin.Page_admin object at 0x000002035056BF28>找到页面元素:('css selector', '.lastboard>a')
+2019-03-19 09:32:28,065 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="2b61b4c44baefb6beab79d9f5408c31b", element="0.5835482789609558-1")>
+2019-03-19 09:32:28,098 - BasePage - INFO - <pageobjects.page_admin.Page_admin object at 0x000002035056BF28>找到页面元素:('xpath', '//*[@id="cpform"]/table/tbody[3]/tr[1]/td[3]/div/input')
+2019-03-19 09:32:28,141 - BasePage - INFO - 清除<selenium.webdriver.remote.webelement.WebElement (session="2b61b4c44baefb6beab79d9f5408c31b", element="0.5835482789609558-2")>
+2019-03-19 09:32:28,206 - BasePage - INFO - <pageobjects.page_admin.Page_admin object at 0x000002035056BF28>找到页面元素:('xpath', '//*[@id="cpform"]/table/tbody[3]/tr[1]/td[2]/input')
+2019-03-19 09:32:28,264 - BasePage - INFO - 输入：3
+2019-03-19 09:32:28,278 - BasePage - INFO - <pageobjects.page_admin.Page_admin object at 0x000002035056BF28>找到页面元素:('xpath', '//*[@id="cpform"]/table/tbody[3]/tr[1]/td[3]/div/input')
+2019-03-19 09:32:28,367 - BasePage - INFO - 输入：今日板块
+2019-03-19 09:32:28,400 - BasePage - INFO - <pageobjects.page_admin.Page_admin object at 0x000002035056BF28>找到页面元素:('css selector', '.fixsel>input')
+2019-03-19 09:32:28,701 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="2b61b4c44baefb6beab79d9f5408c31b", element="0.5835482789609558-4")>
+2019-03-19 09:32:28,701 - BasePage - INFO - 添加板块今日板块
+2019-03-19 09:32:28,707 - BasePage - INFO - 激活窗口成功
+2019-03-19 09:32:28,735 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x000002035056BF60>找到页面元素:('link text', '退出')
+2019-03-19 09:32:29,216 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="2b61b4c44baefb6beab79d9f5408c31b", element="0.21021771440813497-4")>
+2019-03-19 09:32:29,216 - BasePage - INFO - 退出登录
+2019-03-19 09:32:29,246 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x000002035056BF60>找到页面元素:('link text', '退出')
+2019-03-19 09:32:29,512 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="2b61b4c44baefb6beab79d9f5408c31b", element="0.23685182763696688-1")>
+2019-03-19 09:32:29,512 - BasePage - INFO - 退出登录
+2019-03-19 09:32:34,582 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x000002035056BF60>找到页面元素:('css selector', '#ls_username')
+2019-03-19 09:32:34,698 - BasePage - INFO - 输入：sxd
+2019-03-19 09:32:34,723 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x000002035056BF60>找到页面元素:('css selector', '#ls_password')
+2019-03-19 09:32:34,812 - BasePage - INFO - 输入：802352.sxd
+2019-03-19 09:32:34,838 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x000002035056BF60>找到页面元素:('css selector', '.pn em')
+2019-03-19 09:32:34,890 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="2b61b4c44baefb6beab79d9f5408c31b", element="0.14420357808800732-3")>
+2019-03-19 09:32:34,890 - BasePage - INFO - sxd登录
+2019-03-19 09:32:35,295 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x000002035056BF60>找到页面元素:('css selector', '.vwmy>a')
+2019-03-19 09:32:35,316 - BasePage - INFO - sxd登录成功
+2019-03-19 09:32:35,336 - BasePage - INFO - <pageobjects.page_home.Page_home object at 0x000002035056BA58>找到页面元素:('css selector', '.fl_row:nth-last-child(2) h2>a')
+2019-03-19 09:32:35,586 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="2b61b4c44baefb6beab79d9f5408c31b", element="0.7665038358304903-2")>
+2019-03-19 09:32:35,630 - BasePage - INFO - <pageobjects.page_module.Page_module object at 0x000002035056BA20>找到页面元素:('css selector', '#subject')
+2019-03-19 09:32:35,754 - BasePage - INFO - 输入：haotest
+2019-03-19 09:32:35,807 - BasePage - INFO - <pageobjects.page_module.Page_module object at 0x000002035056BA20>找到页面元素:('css selector', '#fastpostmessage')
+2019-03-19 09:32:36,007 - BasePage - INFO - 输入：see you,hello word
+2019-03-19 09:32:36,062 - BasePage - INFO - <pageobjects.page_module.Page_module object at 0x000002035056BA20>找到页面元素:('css selector', '.ptm button')
+2019-03-19 09:32:37,104 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="2b61b4c44baefb6beab79d9f5408c31b", element="0.8780376869837123-3")>
+2019-03-19 09:32:37,104 - BasePage - INFO - 发帖haotest
+2019-03-19 09:32:39,171 - BasePage - INFO - <pageobjects.page_module.Page_module object at 0x000002035056BA20>找到页面元素:('css selector', '#fastpostmessage')
+2019-03-19 09:32:39,327 - BasePage - INFO - 输入：see you,hello word
+2019-03-19 09:32:39,348 - BasePage - INFO - <pageobjects.page_module.Page_module object at 0x000002035056BA20>找到页面元素:('css selector', '.ptm button')
+2019-03-19 09:32:39,734 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="2b61b4c44baefb6beab79d9f5408c31b", element="0.17267418488753727-2")>
+2019-03-19 09:32:39,734 - BasePage - INFO - 回复see you,hello word
+2019-03-19 09:32:39,771 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x000002035056BF60>找到页面元素:('link text', '退出')
+2019-03-19 09:32:40,002 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="2b61b4c44baefb6beab79d9f5408c31b", element="0.17267418488753727-3")>
+2019-03-19 09:32:40,002 - BasePage - INFO - 退出登录
+2019-03-19 09:32:40,003 - BasePage - INFO - 退出登录
+2019-03-19 09:32:50,421 - BasePage - INFO - 屏幕截图，保存路径是E:\PyCharmsongxuedong_web_Discuz/screenshots/201903190932.png
+2019-03-19 09:32:50,421 - BrowserEngine - INFO - Now,Close and quit the browser.
+2019-03-19 09:32:52,949 - BrowserEngine - INFO - You had select Chrome browser.
+2019-03-19 09:32:52,949 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/forum.php
+2019-03-19 09:32:55,423 - BrowserEngine - INFO - Starting chrome browser.
+2019-03-19 09:32:55,910 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-03-19 09:32:57,064 - BrowserEngine - INFO - Maximize the current window.
+2019-03-19 09:32:57,069 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-03-19 09:32:57,102 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x00000203505B22B0>找到页面元素:('css selector', '#ls_username')
+2019-03-19 09:32:57,241 - BasePage - INFO - 输入：sxd
+2019-03-19 09:32:57,297 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x00000203505B22B0>找到页面元素:('css selector', '#ls_password')
+2019-03-19 09:32:57,386 - BasePage - INFO - 输入：802352.sxd
+2019-03-19 09:32:57,410 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x00000203505B22B0>找到页面元素:('css selector', '.pn em')
+2019-03-19 09:32:57,454 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="a81c5d59593b9f08ed09f2fea88ca51d", element="0.6855544169393009-3")>
+2019-03-19 09:32:57,454 - BasePage - INFO - sxd登录
+2019-03-19 09:32:57,985 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x00000203505B22B0>找到页面元素:('css selector', '.vwmy>a')
+2019-03-19 09:32:58,047 - BasePage - INFO - sxd登录成功
+2019-03-19 09:32:58,107 - BasePage - INFO - <pageobjects.page_home.Page_home object at 0x00000203505B24E0>找到页面元素:('css selector', '.scbar_txt_td>input')
+2019-03-19 09:32:58,160 - BasePage - INFO - 清除<selenium.webdriver.remote.webelement.WebElement (session="a81c5d59593b9f08ed09f2fea88ca51d", element="0.9877456661058466-2")>
+2019-03-19 09:32:58,194 - BasePage - INFO - <pageobjects.page_home.Page_home object at 0x00000203505B24E0>找到页面元素:('css selector', '.scbar_txt_td>input')
+2019-03-19 09:32:58,357 - BasePage - INFO - 输入：haotest
+2019-03-19 09:32:58,400 - BasePage - INFO - <pageobjects.page_home.Page_home object at 0x00000203505B24E0>找到页面元素:('css selector', '.scbar_btn_td>button')
+2019-03-19 09:32:58,586 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="a81c5d59593b9f08ed09f2fea88ca51d", element="0.9877456661058466-3")>
+2019-03-19 09:32:58,587 - BasePage - INFO - 搜索帖子haotest
+2019-03-19 09:33:00,050 - BasePage - INFO - 屏幕截图，保存路径是E:\PyCharmsongxuedong_web_Discuz/screenshots/201903190932.png
+2019-03-19 09:33:00,050 - BasePage - INFO - 切换窗口成功
+2019-03-19 09:33:00,073 - BasePage - INFO - <pageobjects.page_home.Page_home object at 0x00000203505B24E0>找到页面元素:('css selector', '.pbw:first-of-type a')
+2019-03-19 09:33:00,165 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="a81c5d59593b9f08ed09f2fea88ca51d", element="0.7869304458182778-1")>
+2019-03-19 09:33:00,166 - BasePage - INFO - 打开帖子
+2019-03-19 09:33:01,607 - BasePage - INFO - 屏幕截图，保存路径是E:\PyCharmsongxuedong_web_Discuz/screenshots/201903190933.png
+2019-03-19 09:33:01,607 - BasePage - INFO - 切换窗口成功
+2019-03-19 09:33:01,629 - BasePage - INFO - <pageobjects.page_home.Page_home object at 0x00000203505B24E0>找到页面元素:('css selector', '#thread_subject')
+2019-03-19 09:33:01,652 - BasePage - INFO - 帖子标题：haotest
+2019-03-19 09:33:01,653 - BasePage - INFO - 搜索结果和预期一致
+2019-03-19 09:33:01,693 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x00000203505B22B0>找到页面元素:('link text', '退出')
+2019-03-19 09:33:01,952 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="a81c5d59593b9f08ed09f2fea88ca51d", element="0.8133195576234906-2")>
+2019-03-19 09:33:01,953 - BasePage - INFO - 退出登录
+2019-03-19 09:33:01,953 - BasePage - INFO - 退出登录
+2019-03-19 09:33:12,348 - BasePage - INFO - 屏幕截图，保存路径是E:\PyCharmsongxuedong_web_Discuz/screenshots/201903190933.png
+2019-03-19 09:33:12,348 - BrowserEngine - INFO - Now,Close and quit the browser.
+2019-03-19 09:33:14,867 - BrowserEngine - INFO - You had select Chrome browser.
+2019-03-19 09:33:14,867 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/forum.php
+2019-03-19 09:33:17,704 - BrowserEngine - INFO - Starting chrome browser.
+2019-03-19 09:33:18,229 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-03-19 09:33:19,379 - BrowserEngine - INFO - Maximize the current window.
+2019-03-19 09:33:19,380 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-03-19 09:33:19,428 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x00000203505B20B8>找到页面元素:('css selector', '#ls_username')
+2019-03-19 09:33:19,614 - BasePage - INFO - 输入：admin
+2019-03-19 09:33:19,636 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x00000203505B20B8>找到页面元素:('css selector', '#ls_password')
+2019-03-19 09:33:19,702 - BasePage - INFO - 输入：802352
+2019-03-19 09:33:19,724 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x00000203505B20B8>找到页面元素:('css selector', '.pn em')
+2019-03-19 09:33:19,766 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="a3847e1b317cc9963e2136476d533383", element="0.865169626095668-3")>
+2019-03-19 09:33:19,766 - BasePage - INFO - admin登录
+2019-03-19 09:33:20,272 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x00000203505B20B8>找到页面元素:('css selector', '.vwmy>a')
+2019-03-19 09:33:20,297 - BasePage - INFO - admin登录成功
+2019-03-19 09:33:20,320 - BasePage - INFO - <pageobjects.page_home.Page_home object at 0x00000203505B2BE0>找到页面元素:('css selector', '.fl_row:nth-last-child(2) h2>a')
+2019-03-19 09:33:20,690 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="a3847e1b317cc9963e2136476d533383", element="0.7842337209868446-2")>
+2019-03-19 09:33:20,856 - BasePage - INFO - <pageobjects.page_module.Page_module object at 0x00000203505B2CC0>找到页面元素:('css selector', '#newspecial')
+2019-03-19 09:33:21,730 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="a3847e1b317cc9963e2136476d533383", element="0.9853141808653378-1")>
+2019-03-19 09:33:21,731 - BasePage - INFO - 点击发布
+2019-03-19 09:33:21,766 - BasePage - INFO - <pageobjects.page_module.Page_module object at 0x00000203505B2CC0>找到页面元素:('css selector', '#editorbox>.mbw>li:nth-last-child(1)>a')
+2019-03-19 09:33:22,305 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="a3847e1b317cc9963e2136476d533383", element="0.13683612657755195-1")>
+2019-03-19 09:33:22,305 - BasePage - INFO - 发起投票
+2019-03-19 09:33:22,334 - BasePage - INFO - <pageobjects.page_vote.Page_vote object at 0x00000203505B2DA0>找到页面元素:('css selector', '#subject')
+2019-03-19 09:33:22,439 - BasePage - INFO - 输入：谁最帅
+2019-03-19 09:33:22,465 - BasePage - INFO - <pageobjects.page_vote.Page_vote object at 0x00000203505B2DA0>找到页面元素:('css selector', '#pollm_c_1 .px:first-of-type')
+2019-03-19 09:33:22,536 - BasePage - INFO - 输入：我
+2019-03-19 09:33:22,560 - BasePage - INFO - <pageobjects.page_vote.Page_vote object at 0x00000203505B2DA0>找到页面元素:('css selector', '#pollm_c_1 p:nth-child(2) input')
+2019-03-19 09:33:22,636 - BasePage - INFO - 输入：你
+2019-03-19 09:33:22,663 - BasePage - INFO - <pageobjects.page_vote.Page_vote object at 0x00000203505B2DA0>找到页面元素:('css selector', '#pollm_c_1 p:nth-child(3) input')
+2019-03-19 09:33:22,741 - BasePage - INFO - 输入：他
+2019-03-19 09:33:22,759 - BasePage - INFO - <pageobjects.page_vote.Page_vote object at 0x00000203505B2DA0>找到页面元素:('css selector', '#polldatas')
+2019-03-19 09:33:22,831 - BasePage - INFO - 输入：2
+2019-03-19 09:33:23,183 - BasePage - INFO - 屏幕截图，保存路径是E:\PyCharmsongxuedong_web_Discuz/screenshots/201903190933.png
+2019-03-19 09:33:23,183 - BasePage - INFO - 切换iframe成功
+2019-03-19 09:33:23,203 - BasePage - INFO - <pageobjects.page_vote.Page_vote object at 0x00000203505B2DA0>找到页面元素:('css selector', 'body')
+2019-03-19 09:33:23,269 - BasePage - INFO - 输入：我最帅
+2019-03-19 09:33:23,273 - BasePage - INFO - 激活窗口成功
+2019-03-19 09:33:23,298 - BasePage - INFO - <pageobjects.page_vote.Page_vote object at 0x00000203505B2DA0>找到页面元素:('css selector', '.mbm .pnc')
+2019-03-19 09:33:23,415 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="a3847e1b317cc9963e2136476d533383", element="0.9654794096830017-7")>
+2019-03-19 09:33:23,415 - BasePage - INFO - 发布投票
+2019-03-19 09:33:24,527 - BasePage - INFO - <pageobjects.page_vote.Page_vote object at 0x00000203505B2DA0>找到页面元素:('css selector', '#option_2')
+2019-03-19 09:33:24,596 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="a3847e1b317cc9963e2136476d533383", element="0.4344546633140032-1")>
+2019-03-19 09:33:24,628 - BasePage - INFO - <pageobjects.page_vote.Page_vote object at 0x00000203505B2DA0>找到页面元素:('css selector', '#pollsubmit')
+2019-03-19 09:33:25,400 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="a3847e1b317cc9963e2136476d533383", element="0.4344546633140032-2")>
+2019-03-19 09:33:25,401 - BasePage - INFO - 投票
+2019-03-19 09:33:25,428 - BasePage - INFO - <pageobjects.page_vote.Page_vote object at 0x00000203505B2DA0>找到页面元素:('css selector', '.pvt label')
+2019-03-19 09:33:25,540 - BasePage - INFO - <pageobjects.page_vote.Page_vote object at 0x00000203505B2DA0>找到页面元素:('css selector', '.pcht tr td:last-of-type')
+2019-03-19 09:33:25,811 - BasePage - INFO - <pageobjects.page_vote.Page_vote object at 0x00000203505B2DA0>找到页面元素:('css selector', '.ts>span')
+2019-03-19 09:33:25,831 - BasePage - INFO - 标题：谁最帅
+选项：['1.  他', '2.  你', '3.  我']
+投票结果：['0.00% (0)', '100.00% (1)', '0.00% (0)']
+2019-03-19 09:33:30,918 - BasePage - INFO - <pageobjects.page_login.Page_login object at 0x00000203505B20B8>找到页面元素:('link text', '退出')
+2019-03-19 09:33:31,145 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="a3847e1b317cc9963e2136476d533383", element="0.41344866856593443-12")>
+2019-03-19 09:33:31,145 - BasePage - INFO - 退出登录
+2019-03-19 09:33:31,146 - BasePage - INFO - 退出登录
+2019-03-19 09:33:41,547 - BasePage - INFO - 屏幕截图，保存路径是E:\PyCharmsongxuedong_web_Discuz/screenshots/201903190933.png
+2019-03-19 09:33:41,547 - BrowserEngine - INFO - Now,Close and quit the browser.
